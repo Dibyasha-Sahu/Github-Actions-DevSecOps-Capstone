@@ -17,3 +17,10 @@ This project is a simple Flask app with a `/health` endpoint, containerized usin
 
 Updated Docker Hub token.
 
+ Trivy Image Scanning
+Scans Docker images for:
+
+HIGH vulnerabilities
+CRITICAL vulnerabilities
+Pipeline fails if critical vulnerabilities are detected.
+
