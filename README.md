@@ -1,4 +1,4 @@
-# 🚀 GitHub Actions DevSecOps Capstone
+# 🚀 Automated DevSecOps CI/CD Pipeline with GitHub Actions
 
 A complete **CI/CD + DevSecOps pipeline** built using **GitHub Actions**, **Docker**, **Flask**, and **GitHub Security** features. This project demonstrates automated testing, Docker image building, vulnerability scanning, deployment simulation, and scheduled health checks.
 
